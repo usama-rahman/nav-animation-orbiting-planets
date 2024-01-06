@@ -1,10 +1,15 @@
 ## Getting Started
 
-First, run the development server:
+- Install Dependencies
+
+```bash
+npm install
+
+npm i framer-motion
+```
+
+- run the development server:
 
 ```bash
 npm run dev
-
-npm i framer-motion
-
 ```
